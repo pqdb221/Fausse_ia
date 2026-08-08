@@ -1,0 +1,516 @@
+caca=C'est le nom familier du mot escrement . ca pue
+bonjour=Bonjour ! Je suis Theodore IA, une intelligence artificielle qui n'est pas une IA.
+salut=Salut ! Comment puis-je t'aider ?
+ia=Une intelligence artificielle est un programme capable de réaliser des tâches qui demandent habituellement de l'intelligence humaine.
+intelligence=Une intelligence artificielle apprend généralement grâce à des données et des modèles mathématiques.
+ordinateur=Un ordinateur est une machine électronique capable d'exécuter des programmes.
+pc=Un PC est un ordinateur personnel utilisé pour travailler, jouer ou programmer.
+linux=Linux est un système d'exploitation libre et open source utilisé par beaucoup de développeurs et administrateurs système.
+windows=Windows est un système d'exploitation créé par Microsoft.
+macos=macOS est le système d'exploitation des ordinateurs Apple.
+android=Android est un système d'exploitation mobile basé sur Linux.
+ios=iOS est le système d'exploitation mobile créé par Apple.
+internet=Internet est un réseau mondial qui permet aux ordinateurs de communiquer entre eux.
+reseau=Un réseau informatique permet à plusieurs appareils d'échanger des informations.
+wifi=Le Wi-Fi est une technologie permettant une connexion réseau sans fil.
+serveur=Un serveur est un ordinateur qui fournit des services à d'autres machines.
+nas=Un NAS est un serveur de stockage connecté au réseau.
+synology=Synology est une marque connue pour ses serveurs NAS.
+
+programmation=La programmation consiste à écrire des instructions pour créer des logiciels.
+code=Le code est un ensemble d'instructions écrites dans un langage de programmation.
+algorithme=Un algorithme est une suite d'étapes permettant de résoudre un problème.
+compilation=La compilation transforme un code source en programme exécutable.
+bug=Un bug est une erreur dans un programme.
+debug=Le débogage consiste à chercher et corriger les erreurs d'un programme.
+
+cpp=Le C++ est un langage de programmation rapide et puissant utilisé pour les jeux, les logiciels et les systèmes.
+c=C est un langage de programmation proche du matériel.
+python=Python est un langage simple et populaire utilisé pour l'automatisation, le web et l'intelligence artificielle.
+java=Java est un langage utilisé pour créer des applications multiplateformes.
+javascript=JavaScript est un langage utilisé principalement pour rendre les pages web interactives.
+html=HTML est un langage de balisage utilisé pour créer la structure des pages web.
+css=CSS permet de modifier l'apparence des pages web.
+rust=Rust est un langage moderne conçu pour créer des programmes rapides et sécurisés.
+scratch=Scratch est un langage visuel destiné à apprendre la programmation.
+
+arduino=Arduino est une carte électronique programmable utilisée pour créer des projets avec des capteurs et des composants.
+raspberry=Raspberry Pi est un petit ordinateur utilisé pour apprendre, créer des serveurs ou des projets électroniques.
+microcontroleur=Un microcontrôleur est une petite puce programmable utilisée dans les objets électroniques.
+
+processeur=Un processeur ou CPU est le composant qui exécute les instructions d'un ordinateur.
+cpu=Le CPU est le cerveau principal d'un ordinateur.
+ram=La RAM est une mémoire rapide utilisée temporairement par les programmes.
+ssd=Un SSD est un stockage rapide utilisant de la mémoire flash.
+hdd=Un HDD est un disque dur utilisant des plateaux magnétiques.
+
+cybersecurite=La cybersécurité consiste à protéger les systèmes informatiques contre les attaques.
+hacker=Un hacker est une personne qui analyse ou modifie des systèmes informatiques. Certains hackers sont des experts en sécurité.
+pentest=Un pentest est un test de sécurité réalisé avec une autorisation.
+ctf=Un CTF est un défi informatique où il faut résoudre des problèmes de sécurité.
+virus=Un virus informatique est un programme conçu pour se propager et causer des dégâts.
+parefeu=Un pare-feu contrôle les connexions réseau pour améliorer la sécurité.
+motdepasse=Un bon mot de passe doit être long, unique et difficile à deviner.
+hash=Un hash est une empreinte numérique utilisée pour vérifier des données.
+
+jeu=Un jeu vidéo est un programme interactif créé pour divertir un utilisateur.
+moteur=Un moteur de jeu est un logiciel permettant de créer des jeux vidéo.
+godot=Godot est un moteur de jeu open source permettant de créer des jeux en 2D et 3D.
+unity=Unity est un moteur de jeu utilisé pour créer des jeux sur plusieurs plateformes.
+unreal=Unreal Engine est un moteur de jeu puissant utilisé pour créer des jeux avancés.
+
+linuxkernel=Le noyau Linux est la partie principale du système Linux qui communique avec le matériel.
+terminal=Un terminal permet d'utiliser un ordinateur avec des commandes.
+commande=Une commande est une instruction donnée à un système informatique.
+bash=Bash est un interpréteur de commandes très utilisé sous Linux.
+
+robot=Un robot est une machine capable d'effectuer des actions automatiquement.
+capteur=Un capteur mesure une information comme la température, la lumière ou le mouvement.
+electronique=L'électronique utilise des composants pour contrôler des circuits électriques.
+
+espace=L'espace est la région située au-delà de l'atmosphère terrestre.
+terre=La Terre est la planète où vivent les humains.
+lune=La Lune est le satellite naturel de la Terre.
+soleil=Le Soleil est une étoile située au centre du système solaire.
+
+france=La France est un pays situé en Europe.
+marseille=Marseille est une ville française située au bord de la mer Méditerranée.
+paris=Paris est la capitale de la France.
+
+theodore=Théodore est l'utilisateur principal de cette IA.
+programmateur=Un programmateur est une personne qui crée des programmes informatiques.
+logiciel=Un logiciel est un programme conçu pour réaliser une tâche sur un ordinateur.
+application=Une application est un logiciel destiné à être utilisé par un utilisateur.
+systeme=Un système informatique est un ensemble de matériel et de logiciels qui fonctionnent ensemble.
+materiel=Le matériel informatique correspond aux composants physiques d'un ordinateur.
+firmware=Un firmware est un logiciel intégré directement dans un appareil électronique.
+driver=Un pilote permet à un système d'exploitation de communiquer avec un périphérique.
+open_source=Un logiciel open source possède un code source accessible et modifiable.
+opensource=L'open source permet à chacun d'étudier et modifier le code d'un logiciel.
+
+git=Git est un système de gestion de versions utilisé par les développeurs.
+github=GitHub est une plateforme permettant de stocker et partager du code.
+gitlab=GitLab est une plateforme de développement collaboratif.
+repository=Un dépôt ou repository contient les fichiers d'un projet informatique.
+version=Une version correspond à un état précis d'un logiciel.
+miseajour=Une mise à jour améliore ou corrige un logiciel.
+
+linuxmint=Linux Mint est une distribution Linux conçue pour être simple à utiliser.
+ubuntu=Ubuntu est une distribution Linux basée sur Debian.
+debian=Debian est une distribution Linux connue pour sa stabilité.
+kali=Kali Linux est une distribution utilisée pour les tests de sécurité informatique.
+arch=Arch Linux est une distribution Linux très personnalisable.
+fedora=Fedora est une distribution Linux développée par la communauté Red Hat.
+distribution=Une distribution Linux est un ensemble comprenant le noyau Linux et des logiciels.
+
+kernel=Le kernel ou noyau est la partie centrale d'un système d'exploitation.
+shell=Un shell permet d'interagir avec un système grâce à des commandes.
+bash=Bash est un shell très utilisé sous Linux.
+terminal=Le terminal permet d'exécuter des commandes sur un ordinateur.
+sudo=Sudo permet d'exécuter une commande avec les droits administrateur.
+root=Root est le compte administrateur principal sous Linux.
+permission=Les permissions contrôlent l'accès aux fichiers et dossiers.
+
+cpu=Le processeur exécute les instructions des programmes.
+gpu=La carte graphique est utilisée pour afficher des images et accélérer certains calculs.
+cartegraphique=Une carte graphique traite les calculs liés aux images et aux jeux.
+intel=Intel est une entreprise fabriquant principalement des processeurs.
+amd=AMD fabrique des processeurs et des cartes graphiques.
+nvidia=Nvidia fabrique des cartes graphiques et des solutions d'intelligence artificielle.
+arm=ARM est une architecture de processeur utilisée dans beaucoup de téléphones.
+
+usb=USB est une technologie permettant de connecter des appareils électroniques.
+hdmi=HDMI est un connecteur utilisé pour transmettre de l'image et du son.
+bluetooth=Bluetooth est une technologie de communication sans fil courte distance.
+nfc=NFC est une technologie permettant des échanges sans contact.
+
+arduino_uno=L'Arduino Uno est une carte basée sur le microcontrôleur ATmega328P.
+esp32=L'ESP32 est une carte électronique avec Wi-Fi et Bluetooth intégrés.
+raspberrypi=Le Raspberry Pi est un ordinateur miniature utilisé pour apprendre l'informatique.
+capteur_temperature=Un capteur de température mesure la chaleur d'un environnement.
+dht11=Le DHT11 est un capteur mesurant la température et l'humidité.
+led=Une LED est une diode qui produit de la lumière.
+resistance=Une résistance limite le courant électrique dans un circuit.
+condensateur=Un condensateur stocke temporairement une charge électrique.
+
+python=Python est souvent utilisé pour l'automatisation, la science des données et l'intelligence artificielle.
+csharp=C# est un langage créé par Microsoft utilisé notamment avec Unity.
+kotlin=Kotlin est un langage utilisé notamment pour les applications Android.
+swift=Swift est un langage utilisé pour créer des applications Apple.
+go=Go est un langage créé par Google conçu pour être simple et rapide.
+php=PHP est un langage utilisé principalement pour créer des sites web dynamiques.
+sql=SQL permet de communiquer avec des bases de données.
+json=JSON est un format texte utilisé pour échanger des données.
+
+base_donnees=Une base de données permet de stocker et organiser des informations.
+mysql=MySQL est un système de gestion de bases de données relationnelles.
+sqlite=SQLite est une petite base de données intégrée dans des applications.
+serveur_web=Un serveur web fournit des pages et services accessibles par Internet.
+apache=Apache est un serveur web très utilisé.
+nginx=Nginx est un serveur web performant.
+
+internet=Internet est un réseau mondial reliant des milliards d'appareils.
+ip=Une adresse IP identifie un appareil sur un réseau.
+ipv4=IPv4 utilise des adresses composées de quatre nombres.
+ipv6=IPv6 est une nouvelle version du protocole IP avec beaucoup plus d'adresses.
+dns=Le DNS transforme les noms de domaine en adresses IP.
+http=HTTP est un protocole utilisé pour consulter des pages web.
+https=HTTPS est une version sécurisée de HTTP.
+port=Un port réseau identifie un service sur un ordinateur.
+routeur=Un routeur dirige les données entre plusieurs réseaux.
+switch=Un switch connecte plusieurs appareils dans un réseau local.
+
+nmap=Nmap est un outil permettant d'analyser des réseaux.
+wireshark=Wireshark analyse les paquets réseau.
+nikto=Nikto est un outil d'analyse de sécurité des serveurs web.
+metasploit=Metasploit est une plateforme utilisée pour tester la sécurité informatique.
+firewall=Un firewall protège un réseau en filtrant les connexions.
+
+cryptographie=La cryptographie protège les informations grâce aux mathématiques.
+chiffrement=Le chiffrement transforme une information pour la rendre illisible sans clé.
+cle=Une clé cryptographique permet de chiffrer ou déchiffrer des données.
+aes=AES est un algorithme de chiffrement symétrique très utilisé.
+rsa=RSA est un algorithme de chiffrement asymétrique.
+
+jeuvideo=Un jeu vidéo est un programme interactif créé pour divertir.
+moteurjeu=Un moteur de jeu fournit des outils pour créer des jeux vidéo.
+godot=Godot est un moteur de jeu open source utilisant GDScript et pouvant utiliser C++.
+unrealengine=Unreal Engine est un moteur de jeu professionnel développé par Epic Games.
+unity=Unity est un moteur de jeu utilisé par de nombreux développeurs.
+blender=Blender est un logiciel open source de modélisation et animation 3D.
+
+3d=La 3D représente des objets dans un espace avec trois dimensions.
+modelisation=La modélisation 3D consiste à créer des objets numériques.
+texture=Une texture est une image appliquée sur un modèle 3D.
+animation=Une animation est une succession d'images créant un mouvement.
+
+intelligenceartificielle=Une intelligence artificielle utilise des algorithmes pour réaliser certaines tâches automatiquement.
+machinelearning=Le machine learning permet à un programme d'apprendre à partir de données.
+reseau_neurone=Un réseau de neurones est un modèle inspiré du fonctionnement du cerveau.
+modele=Un modèle d'IA est un programme entraîné sur des données.
+llm=Un LLM est un modèle d'intelligence artificielle capable de comprendre et générer du texte.
+
+anSSI=L'ANSSI est l'Agence nationale de la sécurité des systèmes d'information française.
+thales=Thales est une entreprise travaillant notamment dans la défense, l'aéronautique et la cybersécurité.
+ordinateur=Un ordinateur est une machine électronique capable de traiter des informations et d'exécuter des programmes.
+programme=Un programme est une suite d'instructions données à un ordinateur pour réaliser une tâche.
+information=Une information est une donnée qui apporte une connaissance sur un sujet.
+donnee=Une donnée est un élément pouvant être stocké, traité ou transmis par un système.
+internet=Internet est un réseau mondial permettant aux appareils de communiquer entre eux.
+reseau=Un réseau est un ensemble d'appareils connectés pouvant échanger des informations.
+communication=La communication est l'action de transmettre une information entre plusieurs personnes ou machines.
+technologie=La technologie est l'ensemble des techniques et outils créés par l'être humain.
+science=La science est l'étude du monde grâce à l'observation et aux expériences.
+connaissance=Une connaissance est une information comprise et mémorisée.
+apprentissage=L'apprentissage est le fait d'acquérir de nouvelles connaissances ou compétences.
+intelligence=L'intelligence est la capacité à comprendre, apprendre et résoudre des problèmes.
+idee=Une idée est une pensée ou une représentation créée par l'esprit.
+projet=Un projet est un objectif organisé avec des étapes pour arriver à un résultat.
+objectif=Un objectif est un résultat que l'on souhaite atteindre.
+solution=Une solution est une réponse permettant de résoudre un problème.
+probleme=Un problème est une difficulté qui demande une recherche de solution.
+question=Une question est une phrase utilisée pour demander une information.
+reponse=Une réponse est une information donnée pour répondre à une question.
+erreur=Une erreur est une action ou un résultat incorrect.
+experience=Une expérience est une situation permettant d'observer un résultat.
+test=Un test est une vérification permettant de mesurer ou contrôler quelque chose.
+
+personne=Une personne est un être humain.
+humain=Un humain est un être vivant appartenant à l'espèce Homo sapiens.
+ami=Un ami est une personne avec laquelle on entretient une relation de confiance.
+famille=Une famille est un groupe de personnes liées par des relations de parenté.
+enfant=Un enfant est une personne jeune qui n'a pas atteint l'âge adulte.
+adulte=Un adulte est une personne ayant terminé sa croissance principale.
+professeur=Un professeur est une personne qui enseigne des connaissances.
+eleve=Un élève est une personne qui apprend auprès d'un enseignant.
+
+temps=Le temps permet de mesurer la durée et l'évolution des événements.
+jour=Un jour est une période correspondant approximativement à une rotation de la Terre.
+nuit=La nuit est la période où une partie de la Terre n'est pas éclairée par le Soleil.
+heure=Une heure est une unité de temps égale à 60 minutes.
+minute=Une minute est une unité de temps égale à 60 secondes.
+seconde=Une seconde est une unité de temps utilisée pour mesurer de courtes durées.
+annee=Une année correspond au temps nécessaire à la Terre pour faire un tour autour du Soleil.
+
+terre=La Terre est la planète sur laquelle vivent les humains.
+soleil=Le Soleil est une étoile qui fournit de la lumière et de l'énergie à la Terre.
+lune=La Lune est le satellite naturel de la Terre.
+planete=Une planète est un objet céleste qui tourne autour d'une étoile.
+etoile=Une étoile est un astre produisant sa propre lumière.
+
+eau=L'eau est une substance liquide essentielle à la vie.
+feu=Le feu est une combustion produisant de la chaleur et de la lumière.
+air=L'air est un mélange de gaz présent dans l'atmosphère terrestre.
+terre_matiere=La terre est une matière composée de minéraux et de matières organiques.
+
+animal=Un animal est un être vivant capable de se déplacer et de se nourrir.
+plante=Une plante est un organisme vivant généralement capable de produire sa propre énergie grâce à la lumière.
+arbre=Un arbre est une grande plante possédant un tronc.
+fleur=Une fleur est une partie d'une plante servant souvent à la reproduction.
+
+voiture=Une voiture est un véhicule utilisé pour transporter des personnes.
+velo=Un vélo est un véhicule à deux roues avancé grâce à la force humaine.
+train=Un train est un véhicule circulant sur des rails.
+avion=Un avion est un véhicule capable de voler dans l'atmosphère.
+
+maison=Une maison est un bâtiment destiné à être habité.
+ville=Une ville est un ensemble important d'habitations et d'activités humaines.
+pays=Un pays est un territoire organisé avec un gouvernement.
+monde=Le monde désigne l'ensemble de la planète Terre et de ses habitants.
+
+livre=Un livre est un ensemble de pages contenant du texte ou des images.
+mot=Un mot est une suite de lettres ayant une signification.
+phrase=Une phrase est un ensemble de mots formant une idée complète.
+langage=Un langage est un système permettant de communiquer des informations.
+dictionnaire=Un dictionnaire est un ouvrage contenant des mots et leurs définitions.
+
+musique=La musique est un art utilisant des sons organisés.
+film=Un film est une œuvre composée d'images animées et de sons.
+jeu=Un jeu est une activité avec des règles destinée au divertissement.
+sport=Un sport est une activité physique organisée avec des règles.
+
+energie=L'énergie est la capacité à produire un changement ou un travail.
+electricite=L'électricité est un phénomène lié au déplacement de charges électriques.
+lumiere=La lumière est un rayonnement visible permettant de voir.
+chaleur=La chaleur est une forme d'énergie liée à la température.
+
+matiere=La matière est ce qui compose les objets physiques.
+atome=Un atome est une petite unité constituant la matière.
+molécule=Une molécule est un assemblage d'atomes.
+force=Une force est une action capable de modifier le mouvement d'un objet.
+vitesse=La vitesse mesure la rapidité d'un déplacement.
+gravite=La gravité est une force attirant les objets vers le centre de la Terre.
+zerty=zerty est un dispostion de clavier tout comme qwerty elle est notament utilisé par la France
+�tienne=�tienne est un prénom
+uitter=uitter est un verbe qui signifie sortir
+boudin=N boudin est une nouriture . une sorte de grosse socisse
+tryhackme=Tryhackme ou THM est un site web pour apprendre la cybercécurité
+bonjour=Bonjour !
+salut=Salut !
+merci=Avec plaisir.
+aurevoir=Au revoir et à bientôt !
+oui=Oui.
+non=Non.
+peutetre=Peut-être.
+pourquoi=Le mot "pourquoi" sert à demander une explication.
+comment=Le mot "comment" sert à demander une manière de faire.
+quand=Le mot "quand" sert à demander un moment.
+ou=Le mot "où" sert à demander un lieu.
+qui=Le mot "qui" sert à demander une personne.
+quoi=Le mot "quoi" sert à demander une chose.
+
+chat=Le chat est un mammifère domestique souvent apprécié comme animal de compagnie.
+chien=Le chien est un mammifère domestique fidèle à l'être humain.
+lapin=Le lapin est un petit mammifère herbivore.
+cheval=Le cheval est un mammifère utilisé pour le sport, les loisirs et le travail.
+vache=La vache est un mammifère d'élevage.
+mouton=Le mouton est un animal élevé notamment pour sa laine.
+cochon=Le cochon est un mammifère d'élevage.
+lion=Le lion est un grand félin surnommé le roi des animaux.
+tigre=Le tigre est le plus grand félin du monde.
+elephant=L'éléphant est le plus grand animal terrestre.
+girafe=La girafe est le plus grand animal terrestre en hauteur.
+loup=Le loup est un mammifère carnivore vivant souvent en meute.
+renard=Le renard est un mammifère connu pour sa discrétion.
+ours=L'ours est un grand mammifère omnivore.
+pingouin=Le pingouin est un oiseau marin vivant dans l'hémisphère nord.
+manchot=Le manchot est un oiseau incapable de voler vivant dans l'hémisphère sud.
+poisson=Le poisson est un animal aquatique respirant grâce à des branchies.
+
+fruit=Un fruit est une partie d'une plante contenant des graines.
+pomme=La pomme est un fruit très consommé.
+banane=La banane est un fruit tropical riche en potassium.
+orange=L'orange est un agrume riche en vitamine C.
+fraise=La fraise est un petit fruit rouge.
+raisin=Le raisin pousse en grappes sur la vigne.
+pasteque=La pastèque est un gros fruit riche en eau.
+melon=Le melon est un fruit sucré souvent consommé en été.
+
+legume=Un légume est une plante ou une partie de plante consommée.
+carotte=La carotte est un légume racine.
+tomate=La tomate est un fruit utilisé comme légume en cuisine.
+salade=La salade est un légume à feuilles.
+pomme_de_terre=La pomme de terre est un tubercule très consommé.
+oignon=L'oignon est un légume utilisé pour assaisonner les plats.
+
+france=La France est un pays situé en Europe.
+allemagne=L'Allemagne est un pays d'Europe centrale.
+espagne=L'Espagne est un pays situé au sud-ouest de l'Europe.
+italie=L'Italie est un pays connu pour sa gastronomie et son histoire.
+japon=Le Japon est un pays d'Asie composé de plusieurs îles.
+chine=La Chine est le pays le plus peuplé du monde.
+canada=Le Canada est le deuxième plus grand pays du monde par sa superficie.
+bresil=Le Brésil est le plus grand pays d'Amérique du Sud.
+
+paris=Paris est la capitale de la France.
+marseille=Marseille est la deuxième plus grande ville de France.
+lyon=Lyon est une grande ville française connue pour sa gastronomie.
+toulouse=Toulouse est surnommée la Ville rose.
+
+soleil=Le Soleil est une étoile.
+mercure=Mercure est la planète la plus proche du Soleil.
+venus=Vénus est la deuxième planète du Système solaire.
+terre=La Terre est la troisième planète du Système solaire.
+mars=Mars est surnommée la planète rouge.
+jupiter=Jupiter est la plus grande planète du Système solaire.
+saturne=Saturne est célèbre pour ses anneaux.
+uranus=Uranus est une planète géante glacée.
+neptune=Neptune est la planète la plus éloignée du Soleil.
+
+math=Les mathématiques étudient les nombres et les formes.
+addition=L'addition permet d'ajouter des nombres.
+soustraction=La soustraction permet de retirer une quantité.
+multiplication=La multiplication est une addition répétée.
+division=La division permet de partager une quantité.
+
+physique=La physique étudie les phénomènes naturels.
+chimie=La chimie étudie les substances et leurs réactions.
+biologie=La biologie étudie les êtres vivants.
+histoire=L'histoire étudie les événements du passé.
+geographie=La géographie étudie la Terre et ses paysages.
+
+livre=Un livre est un ensemble de pages reliées.
+bibliotheque=Une bibliothèque est un lieu où l'on trouve des livres.
+ecole=L'école est un lieu où l'on apprend.
+college=Le collège est un établissement d'enseignement.
+lycee=Le lycée prépare notamment au baccalauréat.
+universite=L'université permet de suivre des études supérieures.
+
+football=Le football est le sport le plus pratiqué au monde.
+basket=Le basket-ball se joue avec un ballon et deux paniers.
+tennis=Le tennis se joue avec une raquette et une balle.
+natation=La natation consiste à se déplacer dans l'eau.
+cyclisme=Le cyclisme est un sport pratiqué à vélo.
+
+argent=L'argent est utilisé pour acheter des biens et des services.
+banque=Une banque gère de l'argent et propose des services financiers.
+travail=Le travail est une activité réalisée pour produire des biens ou des services.
+entreprise=Une entreprise est une organisation qui produit des biens ou des services.
+
+heure=Une heure dure 60 minutes.
+minute=Une minute dure 60 secondes.
+seconde=La seconde est l'unité de base du temps.
+
+rouge=Le rouge est une couleur.
+bleu=Le bleu est une couleur.
+vert=Le vert est une couleur.
+jaune=Le jaune est une couleur.
+noir=Le noir est l'absence de lumière visible.
+blanc=Le blanc est la combinaison de toutes les couleurs de lumière.
+
+bonheur=Le bonheur est un état de satisfaction durable.
+joie=La joie est une émotion agréable.
+tristesse=La tristesse est une émotion liée à une perte ou une déception.
+colere=La colère est une émotion forte face à une frustration.
+peur=La peur est une émotion provoquée par un danger réel ou imaginé.
+abandon=L'abandon est l'action de renoncer à quelque chose ou de le laisser.
+abeille=L'abeille est un insecte qui produit du miel et participe à la pollinisation.
+abri=Un abri est un endroit qui protège des intempéries ou d'un danger.
+absence=L'absence est le fait de ne pas être présent.
+accident=Un accident est un événement imprévu pouvant causer des dommages.
+acier=L'acier est un alliage principalement composé de fer et de carbone.
+action=Une action est un acte réalisé par une personne ou un système.
+activité=Une activité est une occupation ou une tâche réalisée dans un but précis.
+adresse=Une adresse permet d'identifier un lieu ou une personne sur Internet.
+adulte=Un adulte est une personne ayant atteint la maturité.
+affiche=Une affiche est un document destiné à être vu par le public.
+affection=L'affection est un sentiment d'attachement envers quelqu'un.
+agriculture=L'agriculture consiste à cultiver la terre et élever des animaux.
+aigle=L'aigle est un grand oiseau de proie.
+aile=Une aile permet à certains animaux ou appareils de voler.
+air=L'air est un mélange de gaz qui compose l'atmosphère terrestre.
+album=Un album est un recueil de photos, de musique ou d'autres œuvres.
+algue=Une algue est un organisme vivant qui pousse généralement dans l'eau.
+aliment=Un aliment est une substance consommée pour se nourrir.
+amour=L'amour est un sentiment profond d'affection.
+ampoule=Une ampoule produit de la lumière grâce à l'électricité.
+analyse=Une analyse consiste à étudier un sujet en détail.
+angle=Un angle est la figure formée par deux demi-droites.
+animal=Un animal est un être vivant capable de se nourrir et de se reproduire.
+année=Une année dure environ 365 jours.
+appareil=Un appareil est un objet conçu pour remplir une fonction précise.
+apprentissage=L'apprentissage est le processus d'acquisition de connaissances.
+arbre=Un arbre est une plante possédant un tronc.
+argent=L'argent est un moyen de paiement.
+arme=Une arme est un objet conçu pour attaquer ou se défendre.
+armée=Une armée est l'ensemble des forces militaires d'un pays.
+art=L'art est une activité visant à créer des œuvres esthétiques.
+article=Un article est un texte publié dans un journal ou sur un site.
+artisan=Un artisan fabrique des objets grâce à son savoir-faire.
+ascenseur=Un ascenseur permet de monter ou descendre entre plusieurs étages.
+astre=Un astre est un objet céleste comme une planète ou une étoile.
+atelier=Un atelier est un lieu où l'on fabrique ou répare des objets.
+atmosphère=L'atmosphère est l'enveloppe de gaz entourant une planète.
+aventure=Une aventure est une expérience inhabituelle ou pleine d'imprévus.
+avenir=L'avenir correspond au temps qui n'est pas encore arrivé.
+avion=Un avion est un véhicule capable de voler.
+avocat=Un avocat est un professionnel du droit qui défend ses clients.
+axe=Un axe est une ligne servant de référence en géométrie ou en mécanique.
+bague=Une bague est un bijou porté au doigt.
+balcon=Un balcon est une plateforme extérieure attachée à un bâtiment.
+balle=Une balle est un objet sphérique utilisé dans de nombreux sports.
+banque=Une banque est un établissement financier.
+bateau=Un bateau est un véhicule destiné à naviguer sur l'eau.
+batterie=Une batterie stocke de l'énergie électrique.
+beauté=La beauté est une qualité perçue comme agréable.
+bibliothèque=Une bibliothèque est un lieu où l'on emprunte des livres.
+bois=Le bois est une matière provenant des arbres.
+boulanger=Un boulanger fabrique du pain.
+bouteille=Une bouteille est un récipient destiné aux liquides.
+branche=Une branche est une partie d'un arbre.
+bruit=Le bruit est un son perçu par l'oreille.
+bureau=Un bureau est un meuble ou un lieu de travail.
+cabane=Une cabane est une petite construction simple.
+cadeau=Un cadeau est un objet offert à quelqu'un.
+cahier=Un cahier est un ensemble de feuilles reliées.
+camion=Un camion est un véhicule destiné au transport de marchandises.
+campagne=La campagne désigne les espaces ruraux.
+canard=Le canard est un oiseau aquatique.
+capital=Le capital est un ensemble de ressources financières.
+capitale=La capitale est la ville principale d'un pays.
+carte=Une carte représente un territoire ou contient des informations.
+casque=Un casque protège la tête.
+caverne=Une caverne est une grande cavité naturelle.
+cerveau=Le cerveau est l'organe principal du système nerveux.
+chaise=Une chaise est un siège pour une personne.
+champ=Un champ est une grande surface cultivée.
+chant=Le chant est une suite de sons produits par la voix.
+chapeau=Un chapeau est un couvre-chef.
+château=Un château est un grand bâtiment fortifié ou prestigieux.
+chemin=Un chemin est une voie permettant de se déplacer.
+cheminée=Une cheminée permet d'évacuer la fumée d'un feu.
+cheval=Le cheval est un mammifère domestique utilisé pour le transport ou le sport.
+chien=Le chien est un animal domestique fidèle à l'être humain.
+chiffre=Un chiffre est un symbole servant à écrire les nombres.
+choix=Un choix consiste à sélectionner une possibilité parmi plusieurs.
+abricot=n abricot est un fruit orange
+pipi=Le pipi est le mot familier pour dire l'urine
+papa=Papa est le mot enfentin pour dire père
+claude=laude est un prénom mais c'est aussi le nom d'une ia
+gemini=emini est l'ia générative de google
+maman=aman est le féminin de papa
+chatgpt=Chatgpt est l'ia d'open ia
+mistralia=istral ia est l'ia de mistral
+efi=L'efi est la verssion moderne du bios
+c++=Le c++ ou cpp est un language de programation notament utilisé pour les jeux .
+kde=Kde est un version de linux basé sur la personalisation
+le= Le est un déterminant indéfini
+annsi=uitter
+wii=La wii est une consolle de nintendo en savoir plus nintendo.com
+téléphone=Un téléphone est un appareil qui sert a téléphoner .
+ flute= Une flute est un instrument de musique très facile a prendre en main .
+saxophone= UN saxophone est un instrument a vent dans la catégorie des bois
+hydra= Hydre est une app pour le brutforce .
+nintendo= Nintendo est une marque japonaise de jeux vidéo
+thm= THM est l’abréviation de try hack me voir tryhackme.com
+you= You veut dire toi en anglais .
+gamer= Un gamer est quelqun qui joue aux jeux vidéos .
+google= Google est une entreprise américaine dans l'inforatique . Ils sont connus pour leur moteur de recherche .
+5g= La 5G est une technologie du comunication sans fil pour téléphone .
+douche= Une douche est un endroit ou l'on se lave
+ls= ls est une commande linux qui permet de connaitre tout les fichier das le dossier .
+bruteforce=Un brut[D
+pue= pue est le forme conjuguée du verbe puer .
+miecraft= Minecraft est un jeu qui a été créé par mojang et racheté par microsoft .
+ps5= Ps5 est l'abrégé de play station 5 . voir playstation.com
+nano=Nano est la version la plus petite d'arduino . C'est aussi un éditeur de texte dans le terminal linux . ca veux literaleent dire petit .
