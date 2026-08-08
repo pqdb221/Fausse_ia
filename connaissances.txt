@@ -1,5 +1,5 @@
 caca=C'est le nom familier du mot escrement . ca pue
-bonjour=Bonjour ! Je suis Theodore IA, une intelligence artificielle qui n'est pas une IA.
+bonjour=Bonjour ! Je suis fausse_IA, une intelligence artificielle qui n'est pas une IA.
 salut=Salut ! Comment puis-je t'aider ?
 ia=Une intelligence artificielle est un programme capable de réaliser des tâches qui demandent habituellement de l'intelligence humaine.
 intelligence=Une intelligence artificielle apprend généralement grâce à des données et des modèles mathématiques.
@@ -509,7 +509,7 @@ google= Google est une entreprise américaine dans l'inforatique . Ils sont conn
 5g= La 5G est une technologie du comunication sans fil pour téléphone .
 douche= Une douche est un endroit ou l'on se lave
 ls= ls est une commande linux qui permet de connaitre tout les fichier das le dossier .
-bruteforce=Un brut[D
+bruteforce=Un brut#[D
 pue= pue est le forme conjuguée du verbe puer .
 miecraft= Minecraft est un jeu qui a été créé par mojang et racheté par microsoft .
 ps5= Ps5 est l'abrégé de play station 5 . voir playstation.com
