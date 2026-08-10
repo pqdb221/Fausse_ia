@@ -434,7 +434,7 @@ void chatbot()
 {
     string message;
 
-    cout << "\n===== Discussion avec Theodore IA =====" << endl;
+    cout << "\n===== Discussion avec fausse IA =====" << endl;
     cout << "Tape 'quitter' pour revenir au menu." << endl;
 
     // Le menu utilise cin >> choix,
