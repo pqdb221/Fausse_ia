@@ -249,4 +249,6 @@ Son fonctionnement repose principalement sur des règles, une base de connaissan
 
 ## Licence
 
-Projet open source.
+Ce projet est distribué sous licence MIT.
+
+Voir le fichier [LICENSE](LICENSE) pour le texte complet de la licence.
