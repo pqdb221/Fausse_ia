@@ -249,6 +249,6 @@ Son fonctionnement repose principalement sur des règles, une base de connaissan
 
 ## Licence
 
-Ce projet est distribué sous licence MIT.
+Ce projet est distribué sous une licence personalisé.
 
 Voir le fichier [LICENSE](LICENSE) pour le texte complet de la licence.
