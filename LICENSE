@@ -1,53 +1,21 @@
+MIT License
 
-====================================================================
-           LA LICENCE MIT-O-RAM ÉVOLUTIVE (Version 3.0)
-       Hybride Communautaire et Commercial créé par pqdb221
-====================================================================
+Copyright (c) 2026 pqdb221
 
-Copyright (c) 2026 pqdb221 (https://github.com)
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-L'autorisation est accordée par la présente, gratuitement, à toute 
-personne physique (particuliers, étudiants, communauté open source) 
-d'utiliser, modifier et partager ce logiciel (Fausse_ia) y compris sur mon git hub, sous réserve 
-du respect strict des conditions suivantes :
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-1. L'OBLIGATION DE CITATION :
-   La mention de copyright ci-dessus contenant le pseudo "pqdb221" 
-   doit obligatoirement rester intacte et visible tout en haut de 
-   tous les fichiers sources C++ dérivés de ce projet.
-
-2. LE SUPRÊME RITUEL DU MANGEUR DE RAM (Pour la communauté) :
-   Avant de pouvoir utiliser ce chatbot, l'utilisateur a l'obligation 
-   morale et technique de lancer DIX (10) instances simultanées du 
-   programme 'Fausse_ia' dans dix terminaux différents. Si la RAM ne 
-   souffre pas de cette multiplication infinie, le reCAPTCHA interne 
-   déclenchera la simulation du faux BSOD / Kernel Panic destructeur.
-
-3. REDEVANCE COMMERCIALE SUR LA MARGE (Strictement pour les Entreprises) :
-   Si une société, startup, micro-entreprise ou entité commerciale 
-   utilise, intègre, distribue ou fait tourner ce code (ou ses dérivés) 
-   dans le cadre d'une activité lucrative, les conditions de gratuité 
-   de la licence MIT sont révoquées.
-   
-   L'entreprise s'engage légalement à verser à pqdb221 une redevance 
-   obligatoire indexée sur la marge brute générée par le produit ou le 
-   service utilisant Fausse_ia, calculée selon le barème suivant :
-   
-   - Tranche 1 : 5 % de la marge brute tant que celle-ci est inférieure 
-     ou égale à 10 000 €.
-   - Tranche 2 : 15 % de la marge brute pour la part de marge comprise 
-     entre 10 001 € et 50 000 €.
-   - Tranche 3 : 30 % de la marge brute pour toute la part de marge 
-     supérieure à 50 000 €.
-   
-   Les rapports financiers et le versement des royalties doivent être 
-   transmis à l'auteur (pqdb221) chaque trimestre fiscal. Tout manquement 
-   ou dissimulation de marge brute entraînera la révocation immédiate 
-   du droit d'exploitation et des poursuites pour contrefaçon.
-
-4. EXCLUSION DE GARANTIE "À VOS RISQUES ET PÉRILS" :
-   LE LOGICIEL EST FOURNI "EN L'ÉTAT". L'AUTEUR (pqdb221) DÉCLINE TOUTE 
-   RESPONSABILITÉ SI LE LANCEMENT DES 10 PROGRAMMES SIMULTANÉS FAIT 
-   FONDRE VOTRE PROCESSEUR, PROVOQUE UNE SURTENSION ÉLECTRIQUE, OU 
-   GÉNÈRE UNE DÉCHARGE BLEUE QUI RÉDUIT VOTRE SALON EN BARBECUE CENDREUX.
-====================================================================
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
