@@ -39,13 +39,14 @@ bool lancerFauxRecaptcha() {
     
     if (reponse == "Je jure que 10 instances de Fausse_ia tournent et que ma RAM va exploser") {
         cout << "🟢 [SUCCESS] Humain detecte. Licence pqdb221 validee.\n\n";
-        this_thread::sleep_for(chrono::seconds(1));
         return true;
     } else {
         cout << "\n❌ [ERREUR] Code incorrect.\n";
         cout << "Explosage de la ram a la place des fenêtres (surtout avec la pénurie le remplacement de la ram va couter cher)." \n;
-        this_thread::sleep_for(chrono::seconds(3));
-cout << "Tu as de la chance je suis gentil mais la prochaine fois c'est GitHub.\n";
+        this_thread::sleep_for(chrono::seconds(1));
+cout << "Ram a 250 °C." \n;
+this_thread::sleep_for(chrono::seconds(2))
+cout << "Tu as de la chance je suis gentil mais la prochaine fois c'est GitHub donc respecte la licence.\n";
     }
 }
 
