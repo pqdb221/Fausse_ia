@@ -43,9 +43,9 @@ bool lancerFauxRecaptcha() {
         return true;
     } else {
         cout << "\n❌ [ERREUR] Code incorrect.\n";
-        cout << "Tu as de la chance je suis gentil mais la prochaine fois c'est GitHub.\n";
+        cout << explosage de la ram a la place des fenêtres. \n;
         this_thread::sleep_for(chrono::seconds(3));
-        return false;
+cout << "Tu as de la chance je suis gentil mais la prochaine fois c'est GitHub.\n";
     }
 }
 
