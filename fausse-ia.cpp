@@ -21,34 +21,6 @@ int xp = 0;
 // ============================================================
 // OUTILS
 // ============================================================
-bool lancerFauxRecaptcha() {
-    string reponse;
-    cout << "====================================================\n";
-    cout << "🔒  reCAPTCHA DE SÉCURITÉ - LICENCE pqdb221  🔒\n";
-    cout << "====================================================\n";
-    cout << "[INFO] Pour verifier que vous n'etes pas un robot et que\n";
-    cout << "       10 instances de Fausse_ia tournent en parallele,\n";
-    cout << "       veuillez valider le test de securite.\n\n";
-    cout << "👉 Tapez scrupuleusement la phrase suivante :\n";
-    cout << "   \"Je jure que 10 instances de Fausse_ia tournent et que ma RAM va exploser\"\n\n";
-    cout << "Votre reponse : ";
-    
-    getline(cin, reponse);
-    cout << "\n[⚡] Verification de l'infrastructure memoire...\n";
-    this_thread::sleep_for(chrono::seconds(2));
-    
-    if (reponse == "Je jure que 10 instances de Fausse_ia tournent et que ma RAM va exploser") {
-        cout << "🟢 [SUCCESS] Humain detecte. Licence pqdb221 validee.\n\n";
-        return true;
-    } else {
-        cout << "\n❌ [ERREUR] Code incorrect.\n";
-        cout << "Explosage de la ram a la place des fenêtres (surtout avec la pénurie le remplacement de la ram va couter cher)." \n;
-        this_thread::sleep_for(chrono::seconds(1));
-cout << "Ram a 250 °C." \n;
-this_thread::sleep_for(chrono::seconds(2))
-cout << "Tu as de la chance je suis gentil mais la prochaine fois c'est GitHub donc respecte la licence.\n";
-    }
-}
 
 void viderEntree()
 {
@@ -781,11 +753,7 @@ void discussion()
 // ============================================================
 
 int main()
-{       int main() {
-    // Déclenchement du reCAPTCHA de pqdb221 au boot
-    if (!lancerFauxRecaptcha()) {
-        return 0; // Ferme proprement le programme sans crash
-    }
+{      
 
   ofstream fichier("t.txt");
 
