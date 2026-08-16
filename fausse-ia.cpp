@@ -780,7 +780,13 @@ void discussion()
 // ============================================================
 
 int main()
-{          ofstream fichier("t.txt");
+{       int main() {
+    // Déclenchement du reCAPTCHA de pqdb221 au boot
+    if (!lancerFauxRecaptcha()) {
+        return 0; // Ferme proprement le programme sans crash
+    }
+
+  ofstream fichier("t.txt");
 
     if (fichier)
     {
