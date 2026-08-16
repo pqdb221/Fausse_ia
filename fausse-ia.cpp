@@ -21,6 +21,33 @@ int xp = 0;
 // ============================================================
 // OUTILS
 // ============================================================
+bool lancerFauxRecaptcha() {
+    string reponse;
+    cout << "====================================================\n";
+    cout << "🔒  reCAPTCHA DE SÉCURITÉ - LICENCE pqdb221  🔒\n";
+    cout << "====================================================\n";
+    cout << "[INFO] Pour verifier que vous n'etes pas un robot et que\n";
+    cout << "       10 instances de Fausse_ia tournent en parallele,\n";
+    cout << "       veuillez valider le test de securite.\n\n";
+    cout << "👉 Tapez scrupuleusement la phrase suivante :\n";
+    cout << "   \"Je jure que 10 instances de Fausse_ia tournent et que ma RAM va exploser\"\n\n";
+    cout << "Votre reponse : ";
+    
+    getline(cin, reponse);
+    cout << "\n[⚡] Verification de l'infrastructure memoire...\n";
+    this_thread::sleep_for(chrono::seconds(2));
+    
+    if (reponse == "Je jure que 10 instances de Fausse_ia tournent et que ma RAM va exploser") {
+        cout << "🟢 [SUCCESS] Humain detecte. Licence pqdb221 validee.\n\n";
+        this_thread::sleep_for(chrono::seconds(1));
+        return true;
+    } else {
+        cout << "\n❌ [ERREUR] Code incorrect.\n";
+        cout << "Tu as de la chance je suis gentil mais la prochaine fois c'est GitHub.\n";
+        this_thread::sleep_for(chrono::seconds(3));
+        return false;
+    }
+}
 
 void viderEntree()
 {
