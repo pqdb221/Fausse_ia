@@ -43,7 +43,7 @@ bool lancerFauxRecaptcha() {
         return true;
     } else {
         cout << "\n❌ [ERREUR] Code incorrect.\n";
-        cout << explosage de la ram a la place des fenêtres. \n;
+        cout << "Explosage de la ram a la place des fenêtres (surtout avec la pénurie le remplacement de la ram va couter cher)." \n;
         this_thread::sleep_for(chrono::seconds(3));
 cout << "Tu as de la chance je suis gentil mais la prochaine fois c'est GitHub.\n";
     }
